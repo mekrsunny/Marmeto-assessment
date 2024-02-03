@@ -154,3 +154,9 @@
       countSpan.innerHTML = `${countValue}`
   })
 }
+
+// Calculate discount percentage
+function calculateDiscountPercentage(price, comparePrice) {
+    const discount = ((comparePrice - price) / comparePrice) * 100;
+    return Math.round(discount);
+}
