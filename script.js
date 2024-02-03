@@ -39,10 +39,7 @@
           colours.appendChild(elem)
       }
 
-      // for(let size of sizeValues){
-      //     let elem = `<input type="radio" class="chooseASize" name="chooseASize" id="${size}"> ${size}`
-      //     chooseASize.innerHTML += elem;
-      // }
+      
 
       description.innerHTML = product.description;
 
