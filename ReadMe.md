@@ -1,2 +1,4 @@
-This project is a product showcase for Marmeto, featuring the "Embrace Sideboard." It provides users with an interactive interface to view product details, select colors and sizes, and add items to their cart. The application fetches product information from a provided API, dynamically updates the UI, and calculates discounts based on the original and discounted prices.
-Teck Stack Used - Javascript,Html,Css
+Marmeto Product Showcase: Embrace Sideboard
+
+Welcome to the Marmeto Product Showcase for the stunning "Embrace Sideboard"! This interactive application offers users a seamless experience to explore product details, customize colors and sizes, and conveniently add items to their cart. The application dynamically retrieves product information from a specified API, ensuring real-time updates to the user interface. Additionally, it incorporates a discount calculation feature based on both original and discounted prices.
+Features.
