@@ -1,1 +1,2 @@
-Marmeto assignment done using javascript, html , css
+This project is a product showcase for Marmeto, featuring the "Embrace Sideboard." It provides users with an interactive interface to view product details, select colors and sizes, and add items to their cart. The application fetches product information from a provided API, dynamically updates the UI, and calculates discounts based on the original and discounted prices.
+Teck Stack Used - Javascript,Html,Css
